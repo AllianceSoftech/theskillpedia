@@ -1,4 +1,4 @@
-theskillpedia
+The Skill Pedia
 =============
 What is The SkillPedia?
 The SkillPedia is an online marketplace, a community where anybody with a skill can teach and anyone can learn.
